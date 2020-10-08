@@ -23,7 +23,7 @@ a title to your new notes and create your notes. Then save the notes and will ap
 
 # Test 
 ![App Pictures](./public/assets/notetakerFront.png)
-![App Picture Back](./assets/notetakerBack.png)
+![App Picture Back](./public/assets/notetakerBack.png)
 
 # Running Application
 ![one test](./public/assets/appworkingvideo.gif)

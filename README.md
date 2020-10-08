@@ -22,10 +22,10 @@ a title to your new notes and create your notes. Then save the notes and will ap
 (https://agile-coast-87877.herokuapp.com/)
 
 # Test 
-![App Pictures](./assets/notetakerFront.png)
+![App Pictures](./public/assets/notetakerFront.png)
 ![App Picture Back](./assets/notetakerBack.png)
 
 # Running Application
-![one test](./assets/appworkingvideo.gif)
+![one test](./public/assets/appworkingvideo.gif)
 
 
